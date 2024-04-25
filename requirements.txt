@@ -1,0 +1,11 @@
+gunicorn
+flask
+validate_email_address
+jsonify
+requests
+wikipedia
+translate
+geopy
+wikipedia
+nltk
+pytz
